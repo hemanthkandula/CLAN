@@ -45,7 +45,7 @@ Using all language data
 ```bash
 #python train_dd_id_ccds.py --gpu_id 0 --sup_dom music --seed 0 ;\
 ```
-Adapting specific languages data
+Adapting specific languages
 
 ```bash
 #python train_clan_id.py --gpu_id 0 --source_lang en --target_lang ja --seed 0 ;\
