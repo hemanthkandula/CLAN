@@ -1,4 +1,4 @@
-# CLAN: Conditional Language Adversaral Networks
+# CLAN: Conditional Language Adversarial Networks
 This is the Pytorch implementation for our paper [Improving Cross-Lingual Sentiment Analysis via Conditional Language Adversarial Training of Neural Networks](http://). 
 #### This work is accepted to the 3rd Workshop on Research in Computational Typology and Multilingual NLP (SIGTYP) at NAACL 2021.
 
