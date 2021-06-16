@@ -60,6 +60,15 @@ python train_clan_cd.py --gpu_id 0 --source_lang en --target_lang de --source_do
 ```
 
 
-
+# Citing 
+```
+@inproceedings{kandula2021improving,
+  title={Improving Cross-Lingual Sentiment Analysis via Conditional Language Adversarial Nets},
+  author={Kandula, Hemanth and Min, Bonan},
+  booktitle={Proceedings of the Third Workshop on Computational Typology and Multilingual NLP},
+  pages={32--37},
+  year={2021}
+}
+```
 
 
