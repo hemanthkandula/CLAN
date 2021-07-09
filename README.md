@@ -28,7 +28,7 @@ Download the Amazon review dataset:
 ```bash
 git clone https://github.com/hemanthkandula/Conditional-Language-Adversaral-Networks.git
 cd Conditional-Language-Adversaral-Networks
-wget -P data/ http://www.uni-weimar.de/medien/webis/corpora/corpus-webis-cls-10/cls-acl10-unprocessed.tar.gz
+wget -P data/ https://zenodo.org/record/3251672/files/cls-acl10-unprocessed.tar.gz
 tar xvf data/cls-acl10-unprocessed.tar.gz -C data/
 ```
 
